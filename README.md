@@ -8,6 +8,6 @@ Parse JSON(JavaScript Object Notation) string to Python object
 
 #some example
 ```
-  {"x": 1, "y: true, "z": {"a": 1.5, "b": null}, "l": [1,2,3,4,],}
+  {"x": 1, "y: true, "z": {"a": 1.5, "b": null,}, "l": [1,2,3,4,],}
 ```
 
